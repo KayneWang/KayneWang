@@ -1,11 +1,11 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning React and Go.
+🌱 I’m currently learning React and Go.
 
 <image src="https://github.com/KayneWang/KayneWang/blob/master/dino.gif" />
 
 <!--
 **KayneWang/KayneWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
