@@ -1,4 +1,4 @@
-🌱 I’m currently learning React and Go.
+🌱 Learning Go and Rust.
 
 <image src="https://github.com/KayneWang/KayneWang/blob/master/dino.gif" />
 
