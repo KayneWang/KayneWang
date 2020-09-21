@@ -1,5 +1,3 @@
-🌱 Learning Go and Rust.
-
 <image src="https://github.com/KayneWang/KayneWang/blob/master/dino.gif" />
 
 <!--
